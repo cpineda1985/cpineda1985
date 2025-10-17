@@ -3,7 +3,7 @@
 🎯 **Solutions/Integration Architect & Senior Backend Developer**  
 📍 Based in Honduras | 🌎 Working Remotely LATAM/US/EU
 
-With over 12 years of experience in software architecture, system integration, and backend development, I specialize in designing scalable solutions and connecting business needs with modern technical strategies.
+With over 15 years of experience in software architecture, system integration, and backend development, I specialize in designing scalable solutions and connecting business needs with modern technical strategies.
 
 ---
 
